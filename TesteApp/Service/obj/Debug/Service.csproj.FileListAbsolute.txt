@@ -1,0 +1,9 @@
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\bin\Debug\Service.dll
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\bin\Debug\Service.pdb
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\obj\Debug\Service.dll
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\obj\Debug\Service.pdb
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\bin\Debug\Domain.dll
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\bin\Debug\Domain.pdb
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Teste.BrianeBianca\TesteApp\Service\obj\Debug\Service.csproj.CopyComplete

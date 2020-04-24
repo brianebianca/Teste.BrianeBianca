@@ -1,0 +1,45 @@
+﻿@model WebSite.Models.FunctionsModel
+@{
+    ViewBag.Title = "Results";
+}
+
+    <div id="Results">
+        <div id="PrintNumbersReturn">
+            <h2>Resultado: Listagem de números múltiplos e 3 e de 5</h2>
+            <div>
+                <ul>
+                    @{
+                        foreach (string numberString in Model.PrintNumbersReturn.numberString)
+                        {
+                            <li>@numberString</li>
+                        }
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <div id="squaredReturn">
+            <h2>Resultado: Soma e quadrados</h2>
+            <div>
+                <p> Dada a lista de inteiros:</p>
+                <ul>
+                    @{
+                        foreach (int number in Model.squaredReturn.numbers)
+                        {
+                            <li>@number</li>
+                        }
+                    }
+                </ul>
+                <p>Sua soma de quadrados é:</p>
+                <p><strong>@Model.squaredReturn.returnedValue</strong></p>
+            </div>
+        </div>
+
+        <div id="fibonacciReturn">
+            <h2>Resultado: Achar o primeiro número de 5 elementos na sequência de fibonacci</h2>
+            <div>
+                <p>F(@Model.fibonacciReturn.n)=@Model.fibonacciReturn.result</p>
+            </div>
+        </div>
+
+    </div>
